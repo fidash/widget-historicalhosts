@@ -1,9 +1,9 @@
 /*
- * widget-historicalregions
- * https://github.com/rockneurotiko/widget-historicalregions
+ * widget-historicalhosts
+ * https://github.com/fidash/widget-historicalhosts
  *
  * Copyright (c) 2016 CoNWeT
- * Licensed under the MIT license.
+ * Licensed under the Apache-2.0 license.
  */
 
 var ConfigParser = require('wirecloud-config-parser');
