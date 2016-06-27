@@ -1,5 +1,5 @@
 {
-    "name": "widget-historicalregions",
+    "name": "widget-historicalhosts",
     "dependencies": {
         "jquery": null,
         "cubism": "~1.6.0",

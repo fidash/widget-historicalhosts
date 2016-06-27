@@ -1,7 +1,7 @@
-Historical Regions widget
+Historical Hosts widget
 ======================
 
-The Historical Regions widget is a WireCloud widget that provides ...
+The Historical Hosts widget is a WireCloud widget that provides ...
 
 Build
 -----
